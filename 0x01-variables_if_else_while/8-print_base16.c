@@ -11,7 +11,7 @@ int main(void)
 
 	for (n = 48; n <= 57; n++)
 	{
-		putcha(n);
+		putchar(n);
 	}
 	for (m = 97; m <= 102; m++)
 	{
