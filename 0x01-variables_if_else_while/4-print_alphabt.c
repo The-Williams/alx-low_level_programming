@@ -1,4 +1,4 @@
-#include <stdio.hi>
+#include <stdio.h>
 /**
  * main - entry point
  * Description: 'print alphabets except q and e'
