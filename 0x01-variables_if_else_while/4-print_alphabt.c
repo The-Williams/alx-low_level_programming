@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.hi>
 /**
  * main - entry point
  * Description: 'print alphabets except q and e'
@@ -18,6 +18,6 @@ int main(void)
 		putchar(n);
 		n++;
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
